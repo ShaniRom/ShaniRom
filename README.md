@@ -1,9 +1,14 @@
 # Welcome to my Git
+
+:sunny: About me:
 Hi, I'm Shani. I am a Junior Full Stack Developer.
 
+- :mortar_board: I’m a Full Stack course graduate from INT College.
 
-## Links
-**[ :link: My Linkedin Profile](https://www.linkedin.com/in/shani-rom-0a8b3a242/)**
+
+- :link:My Linkedin Profile: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shani-rom-0a8b3a242/)
+
+
 
 ***
 
