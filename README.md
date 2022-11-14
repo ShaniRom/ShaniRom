@@ -18,8 +18,8 @@ My name is Shani, I am a Junior Full Stack Developer.
 
 
 
-
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|  :computer:    | My Skills|
+|-----:|----------|
+|     1|          |
+|     2|          |
+|     3|          |
