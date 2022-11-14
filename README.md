@@ -31,4 +31,4 @@ Hi, I'm Shani. I am a Junior Full Stack Developer.
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShaniRom)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaniRom&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaniRom&layout=compact&theme=vision-friendly-light)](https://github.com/ShaniRom)
