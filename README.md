@@ -9,7 +9,7 @@ Hi, I'm Shani. I am a Junior Full Stack Developer.
 
 - :book: I'm currently learning Joi, Flutter and Vue. 
 
-- :link:My Linkedin Profile: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shani-rom-0a8b3a242/)
+- :link: My Linkedin Profile: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shani-rom-0a8b3a242/)
 
 
 
