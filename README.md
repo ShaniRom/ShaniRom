@@ -2,7 +2,7 @@
 Hi, I'm Shani. I am a Junior Full Stack Developer.
 
 
-###### Links
+## Links
 **[ :link: My Linkedin Profile](https://www.linkedin.com/in/shani-rom-0a8b3a242/)**
 
 
