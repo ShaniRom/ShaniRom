@@ -7,7 +7,7 @@ My :computer: Skills :
 
 
 
-|   My    |  :computer:  |  Skills :    |
+|    |  :computer:  |  Skills :    |
 |--------:|--------------|--------------|
 |HTML     | JavaScript   | React        |
 |CSS      | TypeScript   | Redux        |
