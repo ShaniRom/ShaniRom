@@ -1,4 +1,7 @@
 # Hi, Welcome to my git
+My name is Shani, I am a Junior Full Stack Developer.
+
+:computer: My Skills
 
 | My  Skills        |
 |-------------------|
