@@ -20,7 +20,3 @@ Hi, I'm Shani. I am a Junior Full Stack Developer.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaniRom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-https://github-readme-streak-stats.herokuapp.com/?user=ShaniRom
