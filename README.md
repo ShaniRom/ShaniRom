@@ -1,5 +1,5 @@
-# Hi, Welcome to my git
-My name is Shani, I am a Junior Full Stack Developer.
+# Welcome to my Git
+Hi, name is Shani. I am a Junior Full Stack Developer.
 
 [ :link: My Linkedin Profile](https://www.linkedin.com/in/shani-rom-0a8b3a242/)
 
@@ -7,7 +7,7 @@ My name is Shani, I am a Junior Full Stack Developer.
 
 
 
-|   My    |  Skills :     |     |
+|   My    |  Skills :    |             |
 |--------:|--------------|--------------|
 |HTML     | JavaScript   | React        |
 |CSS      | TypeScript   | Redux        |
