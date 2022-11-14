@@ -15,12 +15,11 @@ My name is Shani, I am a Junior Full Stack Developer.
 
 My :computer: Skills :
 
-|   Front-end   | Back-end| 
-|-----:|---------------|
-|HTML|      MySQL      |  
-|CSS|       MongoDB    | 
-|SASS|    Node.js          |            
-|JavaScript|               |  
-|TypeScript|              |
-|React|              |
-|Redux|              |
+
+
+|          |              |              |
+|-------- :|--------------|--------------|
+| HTML     | JavaScript   | React        |
+|  CSS     | TypeScript   | Redux        |
+|   SASS   | Node.js      | MongoDB      |
+|   MySQL  | GitHub       | GitKraken    |
