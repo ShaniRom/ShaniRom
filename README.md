@@ -11,3 +11,5 @@ My :computer: Skills :
 |CSS      | TypeScript   | Redux        |
 |SASS     | Node.js      | MongoDB      |
 |MySQL    | GitHub       | GitKraken    |
+|JWT      | Express.js   | Chart.js     |
+|Axios    | Cloudinary   |      
