@@ -1,7 +1,11 @@
 # Hi, Welcome to my git
 
-| My Skills     |
-|---------------|
-|               |
-|               |
-|               |
+| My  Skills        |
+|-------------------|
+|    HTML           |
+|    CSS            |
+|    SCSS           |
+|    React          |
+|    Redux          |
+|    Node           |
+|    MongoDB        |
