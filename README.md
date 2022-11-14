@@ -1,6 +1,7 @@
 # Welcome to my Git
 
-:sunny: About me:
+## :sunny: About me:
+
 Hi, I'm Shani. I am a Junior Full Stack Developer.
 
 - :mortar_board: I’m a Full Stack course graduate from INT College.
