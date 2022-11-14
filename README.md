@@ -1,7 +1,9 @@
 # Welcome to my Git
-Hi, name is Shani. I am a Junior Full Stack Developer.
+Hi, I'm Shani. I am a Junior Full Stack Developer.
 
-[ :link: My Linkedin Profile](https://www.linkedin.com/in/shani-rom-0a8b3a242/)
+
+###### Links
+**[ :link: My Linkedin Profile](https://www.linkedin.com/in/shani-rom-0a8b3a242/)**
 
 
 
