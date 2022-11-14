@@ -1,6 +1,5 @@
-# Welcome to my Git
+# Welcome to my Git :wave:
 
-## :sunny: About me:
 
 Hi, I'm Shani. I am a Junior Full Stack Developer.
 
