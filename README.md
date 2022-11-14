@@ -3,14 +3,14 @@ My name is Shani, I am a Junior Full Stack Developer.
 
 :computer: My Skills
 
-* HTML
-* CSS
+* HTML         * MongoDB
+* CSS          * React
 * SCSS
 * JavaScript
 * TypeScript
 * Node.js
-* MongoDB
-* React
+
+
 * Redux
 * GitHub
 * GitKraken
