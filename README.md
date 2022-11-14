@@ -1,24 +1,26 @@
 # Hi, Welcome to my git
 My name is Shani, I am a Junior Full Stack Developer.
 
- My Skills
+ 
 
 
 
 * Node.js
-* MongoDB
+
 * React
 * Redux
 * GitHub
 * GitKraken
-* MySQL
 
 
+My :computer: Skills :
 
-|   Front-end   | Back-end| DataBase |
-|-----:|---------------|---------------|
-|HTML|               |               |
-|CSS|               |               |
-|SASS|              |                |
-|JavaScript|               |               |
-|TypeScript|              |               |
+|   Front-end   | Back-end| 
+|-----:|---------------|
+|HTML|      MySQL      |  
+|CSS|       MongoDB    | 
+|SASS|    Node.js          |            
+|JavaScript|               |  
+|TypeScript|              |
+|React|              |
+|Redux|              |
