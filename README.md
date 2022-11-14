@@ -17,7 +17,7 @@ My :computer: Skills :
 
 
 
-|          |              |              |
+|  hi        |      hi        |       hi       |
 |-------- :|--------------|--------------|
 | HTML     | JavaScript   | React        |
 |  CSS     | TypeScript   | Redux        |
