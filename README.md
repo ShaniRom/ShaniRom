@@ -3,11 +3,8 @@ My name is Shani, I am a Junior Full Stack Developer.
 
  My Skills
 
-* HTML
-* CSS
-* SCSS
-* JavaScript
-* TypeScript
+
+
 * Node.js
 * MongoDB
 * React
@@ -18,8 +15,10 @@ My name is Shani, I am a Junior Full Stack Developer.
 
 
 
-|  :computer:    | My Skills|
-|-----:|----------|
-|     1|          |
-|     2|          |
-|     3|          |
+|   Front-end   | Back-end| DataBase |
+|-----:|---------------|---------------|
+|HTML|               |               |
+|CSS|               |               |
+|SASS|              |                |
+|JavaScript|               |               |
+|TypeScript|              |               |
