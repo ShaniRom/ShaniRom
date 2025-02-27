@@ -22,7 +22,7 @@ Hi, I'm Shani. I am a Junior Full Stack Developer.
 |SASS     | Node.js      | MongoDB      |
 |MySQL    | GitHub       | GitKraken    |
 |JWT      | Express.js   | Chart.js     |
-|Axios    | Cloudinary   |      
+|Axios    | Cloudinary   | Angular    
 
 
 ---
